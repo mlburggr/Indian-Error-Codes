@@ -1,0 +1,5 @@
+/home/maxipad/AndroidstudioProjects/IndianErrorCodes/app/build/intermediates/classes/debug
+/home/maxipad/AndroidstudioProjects/IndianErrorCodes/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-30809eae4ba7ee35ca897ed8bcec1b77aeef285a.jar
+/home/maxipad/AndroidstudioProjects/IndianErrorCodes/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-de620cf8c97bdb96c1b2cd7a665db6874ffaef60.jar
+/home/maxipad/AndroidstudioProjects/IndianErrorCodes/app/build/intermediates/pre-dexed/debug/classes-621cff2770cc7601cb465f36097eae6eeb14f7e9.jar
+/home/maxipad/AndroidstudioProjects/IndianErrorCodes/app/build/intermediates/pre-dexed/debug/classes-b225a20d4c7dca9470c41186ebd715514ab3e256.jar
