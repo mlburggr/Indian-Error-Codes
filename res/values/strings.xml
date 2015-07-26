@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indian Diagnostics</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_spn">Enter SPN</string>
+    <string name="button_ok">OK</string>
+    <string name="spinner_fmi">Select FMI</string>
+    <string name="edit_fmi">Enter FMI</string>
+    <string name="header">Header</string>
+
+</resources>
